@@ -4,5 +4,11 @@ public class demo {
         int c = a+b;
         System.out.println("c : " +c);
 
+        if(a<b ){
+            System.out.println("a is greatest");
+        }
+
+
+
     }
 }
