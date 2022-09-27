@@ -1,5 +1,6 @@
 public class OperatorExample {
     public static void main (String[] args){
+
         int pizzaPrice=1500;
         int quantity=2;
         long totalCost = pizzaPrice * quantity;
