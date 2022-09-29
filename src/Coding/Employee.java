@@ -8,8 +8,6 @@ import java.util.Scanner;
     String id;
     String name;
 
-    String Department;
-
     int age;
     String Address;
 
@@ -29,13 +27,6 @@ import java.util.Scanner;
         this.name = name;
     }
 
-    public String getDepartment() {
-        return Department;
-    }
-
-    public void setDepartment(String department) {
-        Department = department;
-    }
 
     public int getAge() {
         return age;
@@ -58,7 +49,6 @@ import java.util.Scanner;
         return "Employee{" +
                 "id='" + id + '\'' +
                 ", name='" + name + '\'' +
-                ", Department='" + Department + '\'' +
                 ", age=" + age +
                 ", Address='" + Address + '\'' +
                 '}';
@@ -104,65 +94,28 @@ class Department {
 
 public class Employee{
     public static void main(String[] args) {
-        Employees emp = new Employees();
+        Employees emp[] = new Employees[10];
         //Employees[] emparray = new Employees[1];
-        Department dp = new Department();
-/*
-        emp.setId("121");
-        emp.setName("aditya");
-        emp.setAge(19);
-        emp.setDepartment("cse");
-        dp.setDid();*/
-/*
-        for (int i=0;i<=1;i++){
-            emparray[i] = new Employees();
+        Department dp[] = new Department[10];
+        Scanner sc = new Scanner(System.in);
+        for (int i = 0; i < emp.length; i++) {
 
-            emp.func(emparray[i]);
+        emp[i] = new Employees();
 
-        }
-*/
+
+        String id = sc.next();
+        emp[i].setId(id);
+        emp[i].setName(sc.next());
+        emp[i].setAge(sc.nextInt());
+        emp[i].setAddress(sc.next());
+        dp[i].setDid(sc.next());
+        dp[i].setDname(sc.next());
+
     }
-
-
-
-
-        /*for (int i=0;i<=1;i++){
-            emparray[i] = new Employees();
-            emp.func(emparray[i]);
-
+        for (int i=0 ; i<emp.length;i++) {
+            System.out.println(emp[i].toString() + dp[i].toString());
         }
 
-
-        void func (Employees empe1){
-            setData(empe1);
-            getData(empe1);
-
         }
-
-        void setData (Employees emp){
-            Scanner sc = new Scanner(System.in);
-            String id = sc.next();
-            String name = sc.next();
-            int age = sc.nextInt();
-            String address = sc.next();
-
-
-            emp.setId(id);
-            emp.setName(name);
-            emp.setAge(age);
-            emp.setAddress(address);
-
-
-        }
-
-        void getData (Employee emp){
-            System.out.println("emp.getId() = " + emp.getId());
-            System.out.println("emp.getName() = " + emp.getName());
-            System.out.println("emp.getAge() = " + emp.getAge());
-            System.out.println("emp.getAddress() = " + emp.getAddress());
-
-
-        }
-*/
 }
 
