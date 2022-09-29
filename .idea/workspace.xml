@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="classexample update">
+    <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="28 updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/infinite/LoopExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/infinite/LoopExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/ArrayObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ArrayObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EnumExample">
+  <component name="RunManager" selected="Application.ItemType">
     <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.Account" />
       <module name="infinite_code" />
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.infinite.LoopExample" />
+    <configuration name="ItemType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding.ItemType" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.infinite.*" />
+          <option name="PATTERN" value="Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compareto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.compareto" />
+    <configuration name="emp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding.emp2" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.*" />
+          <option name="PATTERN" value="Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ItemType" />
+        <item itemvalue="Application.emp2" />
         <item itemvalue="Application.EnumExample" />
         <item itemvalue="Application.Account" />
         <item itemvalue="Application.ArrayObject" />
-        <item itemvalue="Application.LoopExample" />
-        <item itemvalue="Application.compareto" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664310567839</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="28 updated">
+      <created>1664395179152</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664395179152</updated>
+    </task>
+    <task id="LOCAL-00013" summary="28 updated">
+      <created>1664395280649</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664395280649</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +232,7 @@
     <MESSAGE value="operator example" />
     <MESSAGE value="classexample" />
     <MESSAGE value="classexample update" />
-    <option name="LAST_COMMIT_MESSAGE" value="classexample update" />
+    <MESSAGE value="28 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="28 updated" />
   </component>
 </project>

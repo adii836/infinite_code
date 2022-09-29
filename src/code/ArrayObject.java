@@ -25,6 +25,7 @@ class Account{
                 accArray[1].setData("Scarlet",345278);
                 accArray[2] = new Account();
                 accArray[2].setData("Harper",345897);
+
                 System.out.println("Account holder's information");
                 System.out.println();
                 for (Account account : accArray) {
