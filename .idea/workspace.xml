@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="28 updated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/ArrayObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ArrayObject.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="3 pm update 29 sept" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664395280649</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="3 pm update 29 sept">
+      <created>1664448205955</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664448205955</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +237,7 @@
     <MESSAGE value="classexample" />
     <MESSAGE value="classexample update" />
     <MESSAGE value="28 updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="28 updated" />
+    <MESSAGE value="3 pm update 29 sept" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 pm update 29 sept" />
   </component>
 </project>

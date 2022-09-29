@@ -37,8 +37,8 @@ public class ItemType {
     public void display(){
         System.out.println("Item type details");
         System.out.println("Name :"+name);
-        System.out.println("CostPerDay : "+costPerDay);
-        System.out.println("Deposit : " +deposit);
+        System.out.println("costPerDay : "+String.format("%.2f",costPerDay));
+        System.out.println("Deposit : " +String.format("%.2f",deposit));
     }
 
     public static void main(String[] args) {
