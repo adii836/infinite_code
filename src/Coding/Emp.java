@@ -54,7 +54,7 @@ public class Emp {
 //        d[2].setAddress("64C-WallsStreat");
 
 
-        System.out.println("Name"+ emp.AddDistance(); + "Year of Joining"+emp.AddDistance()+ "Address" );
+       // System.out.println("Name"+ emp.AddDistance() + "Year of Joining"+emp.AddDistance()+ "Address" );
 
         /*for (int i=0;i<d.length;i++){
             System.out.println(d[i].Name + AddDistance() +d[i].yoj + AddDistance()+d[i].Address);
