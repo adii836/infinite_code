@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="8 pm update 2 oct">
+    <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="3 pm update 7 oct">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/InterfaceMamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/InterfaceMamal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/SetExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +37,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ObjectTester">
-    <configuration name="AbstractFinalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.AbstractFinalDemo" />
+  <component name="RunManager" selected="Application.ArrayListTester">
+    <configuration name="ArrayLengthTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.ArrayLengthTester" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
@@ -49,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinaTester3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.FinaTester3" />
+    <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.ArrayList1" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
@@ -62,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.FinalTester" />
+    <configuration name="ArrayListTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.ArrayListTester" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalTester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.FinalTester2" />
+    <configuration name="ComparableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.ComparableExample" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.ObjectTester" />
+    <configuration name="IteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.IteratorExample" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectTester" />
-        <item itemvalue="Application.FinaTester3" />
-        <item itemvalue="Application.FinalTester2" />
-        <item itemvalue="Application.FinalTester" />
-        <item itemvalue="Application.AbstractFinalDemo" />
+        <item itemvalue="Application.ArrayListTester" />
+        <item itemvalue="Application.ArrayLengthTester" />
+        <item itemvalue="Application.ArrayList1" />
+        <item itemvalue="Application.ComparableExample" />
+        <item itemvalue="Application.IteratorExample" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +255,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664884714894</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="12 am update 5 oct">
+      <created>1664996577332</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664996577332</updated>
+    </task>
+    <task id="LOCAL-00021" summary="12 am update 5 oct">
+      <created>1665077242206</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665077242206</updated>
+    </task>
+    <task id="LOCAL-00022" summary="3 pm update 7 oct">
+      <created>1665135070166</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665135070166</updated>
+    </task>
+    <task id="LOCAL-00023" summary="3 pm update 7 oct">
+      <created>1665143184213</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665143184213</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,6 +308,8 @@
     <MESSAGE value="3 pm update 29 sept" />
     <MESSAGE value="3 pm update 30 sept" />
     <MESSAGE value="8 pm update 2 oct" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 pm update 2 oct" />
+    <MESSAGE value="12 am update 5 oct" />
+    <MESSAGE value="3 pm update 7 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 pm update 7 oct" />
   </component>
 </project>

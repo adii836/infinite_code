@@ -4,11 +4,11 @@ interface Mammal {
     void run();
 }
 
-interface Cat extends Mammal {
+interface Cat1 extends Mammal {
     void eat();
 }
 
-interface Lion extends Cat{}
+interface Lion extends Cat1{}
 
 class Animal implements Lion {
 
@@ -28,4 +28,5 @@ public class InterfaceMamal {
         Animal animal = new Animal();
         animal.eat();
         animal.run();
+    }
 }
