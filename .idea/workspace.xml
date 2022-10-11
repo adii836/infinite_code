@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e33a01-0adb-4e3d-b083-6f47cd26cece" name="Changes" comment="3 pm update 7 oct">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/InterfaceMamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/InterfaceMamal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/SetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/ArrayListStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ArrayListStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayListTester">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArrayLengthTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.ArrayLengthTester" />
       <module name="infinite_code" />
@@ -90,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.IteratorExample" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coding.Main" />
       <module name="infinite_code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="code.*" />
+          <option name="PATTERN" value="Coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArrayListTester" />
         <item itemvalue="Application.ArrayLengthTester" />
         <item itemvalue="Application.ArrayList1" />
         <item itemvalue="Application.ComparableExample" />
-        <item itemvalue="Application.IteratorExample" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665143184213</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="3 pm update 7 oct">
+      <created>1665340647089</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665340647089</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
