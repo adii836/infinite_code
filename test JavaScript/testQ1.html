@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+  
+    <script>
+        class Person {
+            constructor(name, age) {
+               
+                this.name = name;
+                this.age =age;
+            }
+         
+                
+ }
+        
+        class Employee extends Person {
+            constructor(name, age, role, contact) {
+                super(name, age); 
+                this.role = role;
+                this.contact = contact;
+            }
+            getDetails() {
+               // console.log("The details of employee are: "+"\n")
+                
+                document.write("The details of employee are: ")
+                document.write("</br>");
+                document.write("</br>");
+
+                document.write("Name :" +this.name)
+                document.write("</br>");
+
+                document.write("Age : "+this.age)
+                document.write("</br>");
+
+                document.write("Role : "+this.role)
+                document.write("</br>");
+
+                document.write("contact : " +this.contact)
+                document.write("</br>");
+                
+                //console.log("Name : "+this.name+"\n"+"Age : "+this.age+"\n"+"Role : "+this.role+"\n"+"Contact : "+this.contact)
+
+                }
+        }
+
+        let emp = new Employee("aditya raj", "23", "software enginner", "9472252426"); 
+        emp.getDetails();
+    </script>
+</body>
+</html>
